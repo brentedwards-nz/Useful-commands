@@ -6,3 +6,7 @@ Useful commands
 
 - Add redux-toolkit
 > npm install @redux/toolkit react-redux --save
+
+- nodemon
+> npm install nodemon
+> nodemon npm start
